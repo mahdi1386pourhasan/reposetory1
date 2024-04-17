@@ -1,6 +1,6 @@
-var num1 = +prompt("Enter number 1:", 0)
-var num2 = +prompt("Enter number 2:", 0)
-var parametr = prompt("Enter a parametr:( / , + , * , - , **)")
+var num1 = +prompt("Enter number 1:", 0);
+var num2 = +prompt("Enter number 2:", 0);
+var parametr = prompt("Enter a parametr:( / , + , * , - , **)");
 
 switch (parametr) {
     case "/":
